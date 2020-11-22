@@ -94,11 +94,11 @@ input:focus~.barra::before {
     width: 100%;
 }
 
-.warning {
+.warnings {
     width: 200px;
     text-align: center;
     margin: auto;
-    color: #B06AB3;
+    color: #00c6fb;
     padding-top: 20px;
 }
 
